@@ -1,0 +1,42 @@
+body {
+    background-color: khaki;
+}
+h1{
+    color:black;
+    position: relative;
+    top: 50 px;
+    text-align: center;
+}
+p {
+    font-size: 20px
+}
+.leftRock {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+.middlePaper {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+.rightSisscor {
+    position: absolute;
+    top: 10%;
+    left: 80%;
+}
+.rockImage {
+    position: relative;
+    top: 10%;
+    left: -40%;
+}
+.paperImage {
+    position: relative;
+    top: 10%;
+    left: -40%;
+}
+.sisscorImage {
+    position: relative;
+    top: 10%;
+    left: -35%;
+}
